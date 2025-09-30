@@ -10,13 +10,13 @@ html은 웹페이지 콘텐츠를 정의하는 언어(문서 작성 양식)이�
 
 !치고 tab 치면 기본 코드 자동 작성
 
-<!DOCTYPE html>
+`<!DOCTYPE html>`
 
 c언어의 #include<stdio.h>과 비슷한 개념
 
 이 문서가 html언어로 작성되었다는 것을 알려줌
 
-<head></heda> 
+`<head></heda>`
 
 문서의 정보를 저장하는 공간
 
